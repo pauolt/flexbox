@@ -1,0 +1,32 @@
+body {
+
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.caixa {
+
+    height: 200px;
+    width: 200px;
+
+
+}
+
+#caixa1 {
+
+    background-color: cornflowerblue;
+
+}
+
+#caixa2 {
+
+    background-color: darkred;
+}
+
+#caixa3 {
+
+    background-color: seagreen;
+}
