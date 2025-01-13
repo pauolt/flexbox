@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.caixa {
+    height: 200px;
+    width: 200px;
+    background-color: dodgerblue;
+    margin: 10px;
+
+}
+
+#caixa1 {
+    background-color: orange;
+    flex-basis: 150px;
+}
+
+
+#caixa2 {
+    background-color: dodgerblue;
+    flex-basis: 200px;
+}
+
+
+#caixa3 {
+    background-color: darkred;
+    flex-basis: 250px;
+}

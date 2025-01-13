@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+}
+
+.mobil {
+    height: 200px;
+    width: 400px;
+    background-color: forestgreen;
+
+}

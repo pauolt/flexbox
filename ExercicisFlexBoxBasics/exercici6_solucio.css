@@ -1,0 +1,45 @@
+.contenidor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+
+}
+
+.mosaic {
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+
+}
+
+#mosaic1 {
+    background-color: dodgerblue;
+
+}
+
+#mosaic2 {
+    background-color: lightcoral;
+
+}
+
+#mosaic3 {
+    background-color: forestgreen;
+
+}
+
+#mosaic4 {
+    background-color: darkred;
+
+}
+
+#mosaic5 {
+    background-color: orange;
+
+}
+
+#mosaic6 {
+    background-color: purple;
+
+}
